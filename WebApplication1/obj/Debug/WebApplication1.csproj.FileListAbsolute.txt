@@ -1,0 +1,40 @@
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\csc.exe
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\vbc.exe
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\WebApplication1.dll.config
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\WebApplication1.dll
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\WebApplication1.pdb
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\obj\Debug\WebApplication1.dll
+E:\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\csc.exe
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\vbc.exe
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\WebApplication1.dll.config
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\WebApplication1.dll
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\WebApplication1.pdb
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Work force\WebSite assignment cl-hdcse-93-28\WebApplication\WebApplication1\obj\Debug\WebApplication1.pdb
